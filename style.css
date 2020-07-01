@@ -3,7 +3,9 @@ body {
     text-align: center;
 }
 
-
+.container {
+    border: solid purple;
+}
 
 /* NAV */
 li a{
@@ -143,17 +145,23 @@ padding-left: 40px;
         max-width: 30%;
     }
     .overlay {
-    width: 200px;
-    height: 200px; 
-    border-radius: 100px;
+    width: 160px; 
+    height: 160px; 
+    border-radius: 80px;
     font-size: 12px;
-    padding-top: 80px;
+    padding-top: 60px;
     }
     #whatText {
-        top: 160px;
+        top: 140px;
         left: 20px;
-        width: 50%;
+        width: 45%;
     }
+    h2 {
+        font-size: 22px;
+    }
+    #address {
+        padding-left: 20px;
+        }        
     .copyright {
         padding-left: 100px;
         text-align: center;
