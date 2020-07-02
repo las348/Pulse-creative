@@ -155,6 +155,9 @@ padding-left: 40px;
     h2 {
         font-size: 22px;
     }
+    #address {
+        padding-left: 10px;
+        }
     .copyright {
         padding-left: 5%;
         margin: 10px 0 10px 0;
