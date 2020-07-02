@@ -150,12 +150,14 @@ padding-left: 40px;
     #whatText {
         top: 35%;
         left: 20px;
-        width: 80%;
+        width: 90%;
     }
     h2 {
         font-size: 22px;
     }
     .copyright {
         padding-left: 5%;
+        margin: 10px 0 10px 0;
+        text-align: center;
     }
   }
