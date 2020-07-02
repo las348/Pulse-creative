@@ -156,6 +156,7 @@ padding-left: 40px;
         font-size: 22px;
     }
     #address {
+        float: right;
         padding-left: 10px;
         }
     .copyright {
