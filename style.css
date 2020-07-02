@@ -148,16 +148,13 @@ padding-left: 40px;
     padding-top: 60px;
     } 
     #whatText {
-        top: 45%;
+        top: 35%;
         left: 20px;
         width: 80%;
     }
     h2 {
         font-size: 22px;
     }
-    #address {
-        padding-left: 5px;
-        }        
     .copyright {
         padding-left: 5%;
     }
